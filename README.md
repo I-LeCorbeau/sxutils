@@ -88,6 +88,12 @@ Or by setting them via the environment:
 
     CC=c99; export CC
     make -e
+    
+Todo
+----------
+
+- Window Grouping Utility
+- Monitor Manipulation Tools
 
 bugs
 ----------
