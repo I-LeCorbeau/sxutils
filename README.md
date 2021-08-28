@@ -1,7 +1,7 @@
 sxutil
 =============
 
-sxutils is a set of tools for manipulating X windows, forked from wmutils,
+sxutils is a set of tools for manipulating X windows, forked from [wmutils](https://github.com/wmutils),
 made to be used with [sxwm](https://github.com/I-LeCorbeau/sxwm), but can be used with any WM/DE or no WM/DE 
 at all. Each tool only has one purpose, to make it as flexible and reliable as possible.
 
